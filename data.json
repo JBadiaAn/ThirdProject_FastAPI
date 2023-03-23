@@ -1,0 +1,26 @@
+
+
+{  
+    "bootcamp": {  
+        "students" : [
+            {"name": "Alex", "description": "Informatic"},
+            {"name": "Lorena", "description": "Gatos"},
+            {"name": "Enaitz", "description": "Nadador"}
+        ],   
+        "teachers" : [
+            {"name": "Edgar", "classe": "Accesibilidad"},
+            {"name": "Gabriel", "classe": "FastApi"},
+            {"name": "Francesc", "classe": "SCRUM"}
+        ],
+        "courses" : [   
+            {"name": "SCRUM", "description": "S.C.R.U.M.","price": 99},
+            {"name": "FastAPI", "description": "Very Fast", "price": 1234},
+            {"name": "Accesibilidad", "description": "Que lo pueda leer bien.", "price": 365}
+        ], 
+        "cafe" : [
+            {"name": "Decaf", "sugar": "False"},
+            {"name": "Ristretto", "sugar": "False"},
+            {"name": "Intenso", "sugar": "True"}
+        ]
+    }  
+}  
