@@ -5,7 +5,8 @@
         "students" : [
             {"name": "Alex", "description": "Informatic"},
             {"name": "Lorena", "description": "Gatos"},
-            {"name": "Enaitz", "description": "Nadador"}
+            {"name": "Enaitz", "description": "Nadador"},
+            {"name": "Laura", "description": "Arribas"}
         ],   
         "teachers" : [
             {"name": "Edgar", "classe": "Accesibilidad"},
